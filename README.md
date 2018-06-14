@@ -11,7 +11,7 @@ It is modified from [KCFpy](https://github.com/uoip/KCFpy)
 Download the sources and execute
 ```shell
 git clone https://github.com/kevinli97/KCFpy3.git
-cd KCFpy
+cd KCFpy3
 python3 run.py
 ```
 It will open the default camera of your computer, you can also open a different camera or a video
