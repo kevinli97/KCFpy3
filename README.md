@@ -24,5 +24,5 @@ python3 run.py ./test.avi
 Try different options (hog/gray, fixed/flexible window, singlescale/multiscale) of KCF tracker by modifying the arguments in line `tracker = kcftracker.KCFTracker(False, True, False)  # hog, fixed_window, multiscale` in run.py.
 
 
-### Peoblem
+### Problem
 See [KCFpy](https://github.com/uoip/KCFpy)
